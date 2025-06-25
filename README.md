@@ -48,7 +48,7 @@ A comprehensive web-based Hotel Management System built with PHP and MySQL that 
 
 1. Clone the repository to your web server directory:
    ```bash
-   git clone [repository-url]
+   git clone [https://Tourstacks.wuaze.com]
    ```
 
 2. Import the database schema:
